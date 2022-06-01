@@ -6,6 +6,6 @@ This project designs and cleans a database of Spotify songs, artists, and genres
 
 ## Data
 
-The data comes from [this Kaggle data set](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv), which is licensed under the [Community Data License Agreement – Sharing, Version 1.0](https://cdla.dev/sharing-1-0/). The data consists of two .csv files, one for tracks and one for artists. However, in the completed database, the data the data is normalized into five tables according to the following schema:
+The data comes from [this Kaggle data set](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv), which is licensed under the [Community Data License Agreement – Sharing, Version 1.0](https://cdla.dev/sharing-1-0/). The data consists of two .csv files, one for tracks and one for artists. However, in the completed database, the data is normalized into five tables according to the following schema:
 
 [Final DB Schema](images/diagram2.png)
