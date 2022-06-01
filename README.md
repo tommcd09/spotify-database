@@ -16,7 +16,6 @@ The project code is organized into several parts:
 
 * The create_spotify_db file covers creating and normalizing the database.
 * The clean_spotify_db file covers cleaning the database.
-* The sqlfuncs.py module contains an execute_print function used in the project.
-* The cleaningfuncs.py module contains a split_explode function used in the project.
+* The funcs.py module contains several functions used in the project.
 * The images folder contains images used in the project.
-* The data folder contains the .csv files used to populate the database
+* The data folder contains the .csv files used to populate the database.
