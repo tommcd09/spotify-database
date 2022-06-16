@@ -3,3 +3,4 @@
 spotify_db/
 *.pyc
 spotify.db
+data/
