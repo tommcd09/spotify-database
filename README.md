@@ -16,7 +16,8 @@ The project code is organized into several parts:
 
 ## Data
 
-The data comes from [this Kaggle data set](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv), which is licensed under the [Community Data License Agreement – Sharing, Version 1.0](https://cdla.dev/sharing-1-0/). The data consists of two .csv files, one for tracks and one for artists. The data files are very large and are not included with this repository, but they can be obtained directly from Kaggle.
+The data comes from [this Kaggle data set](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv), which is licensed under the [Community Data License Agreement – Sharing, Version 1.0](https://cdla.dev/sharing-1-0/). The data consists of two .csv files, one for tracks and one for artists. This original data is modified in this project and inserted into a SQLite database. The original and modified data files are too large to upload to Github. The original data set is available at the link above. The modified version of this data contained in the SQLite database is also licensed under the Community Data License Agreement - Sharing, Version 1.0 and is available here: https://drive.google.com/drive/folders/1wrvVMZC6qFGf1KT455iezcynjXBy0St5?usp=sharing.
+
 
 The data have the following fields, as described in the [Spotify documentation](https://developer.spotify.com/documentation/web-api/reference/#/):
 
